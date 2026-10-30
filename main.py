@@ -116,7 +116,7 @@ def TarikTunai():
             history.append(f"Tarik tunai sebesar Rp {nominal}")
             print("\n>>> TARIK TUNAI BERHASIL <<<")
             saldo -= nominal
-            print(f"Uang sebesar Rp {nominal},00 berhasil diambil")
+            print(f"Uang sebesar Rp {nominal} berhasil diambil")
             berhasil = True
             
 
